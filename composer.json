@@ -1,0 +1,25 @@
+{
+    "name": "nickkingston/laravel-form-helper",
+    "description": "small helper to create inputs",
+    "type": "library",
+    "require": {
+        "php": "^7.4||^8.0",
+        "illuminate/support": "^7.0||^8.0"
+    },
+    "homepage": "https://github.com/NickKingston/laravel-form-helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nik Mishevskiy",
+            "email": "nick.m@ukr.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NickKingston\\LaravelFormHelper\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
