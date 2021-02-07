@@ -3,8 +3,7 @@
     "description": "small helper to create inputs",
     "type": "library",
     "require": {
-        "php": "^7.4||^8.0",
-        "laravel/laravel": "^7.0||^8.0"
+        "php": "^7.4||^8.0"
     },
     "homepage": "https://github.com/NickKingston/laravel-form-helper",
     "license": "MIT",
